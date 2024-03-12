@@ -10,7 +10,6 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Microelectronics Laboratory</p>
-    <p>Department of Engineering and Applied Sciences</p>
     <p>University of Bergamo</p>
     <p>Via Galvani, 24044 Dalmine (BG) - Italy</p>
 
