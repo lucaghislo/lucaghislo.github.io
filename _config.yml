@@ -287,10 +287,10 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Ghislotti]
+  first_name: [Luca, G.]
 
-  style: apa
+  style: ieee
   locale: en
 
   source: /_bibliography/
