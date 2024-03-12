@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.unibg.it/'>Università degli Studi di Bergamo</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.unibg.it/'>University of Bergamo</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
