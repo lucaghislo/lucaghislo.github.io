@@ -9,7 +9,7 @@ profile:
   image: luca_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Microelectronics Laboratory</p>
+    <p>Microelectronics Lab</p>
     <p>University of Bergamo</p>
     <p>Via Galvani, 24044 Dalmine (BG) - Italy</p>
 
