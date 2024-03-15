@@ -7,18 +7,18 @@ subtitle: <a href='https://www.unibg.it/'>University of Bergamo</a>. Address. Co
 profile:
   align: right
   image: luca_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Microelectronics Lab</p>
     <p>University of Bergamo</p>
-    <p>Via Galvani, 24044 Dalmine (BG) - Italy</p>
+    <p>Via Galvani, Dalmine</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m a Computer Engineer and a Ph.D. student in microelectronics for high energy physics at the [https://microlab-unibg.it/#/home](Microelectronics Laboratory) of the University of Bergamo. I also work as a technologist at the National Institute of Nuclear Physics (INFN, Pavia section) and as Research Associate II at the Astrophysics Laboratory of Columbia University in New York.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
