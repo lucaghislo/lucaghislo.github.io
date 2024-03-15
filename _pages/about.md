@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m a Computer Engineer and a Ph.D. student in microelectronics for high energy physics at the [Microelectronics Laboratory](https://microlab-unibg.it/#/home) of the [University of Bergamo](https://en.unibg.it/). I also work as a technologist at the National Institute of Nuclear Physics (INFN, Pavia section) and as Research Associate II at the Astrophysics Laboratory of the Columbia University in New York.
+I’m a Computer Engineer and a Ph.D. student in microelectronics for high energy physics at the [Microelectronics Laboratory](https://microlab-unibg.it/#/home) of the [University of Bergamo](https://en.unibg.it/). I also work as a technologist at the Italian National Institute of Nuclear Physics and as a Research Associate II at the Astrophysics Laboratory of the Columbia University in New York.
 
 My research is focused on the design and characterization of analog integrated circuits for the readout of silicon-strip detectors employed in high energy physics and astrophysics experiments.
 
