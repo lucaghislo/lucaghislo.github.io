@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 I’m a Computer Engineer and a Ph.D. student in microelectronics for high energy physics at the [Microelectronics Laboratory](https://microlab-unibg.it/#/home) of the University of Bergamo. I also work as a technologist at the National Institute of Nuclear Physics (INFN, Pavia section) and as Research Associate II at the Astrophysics Laboratory of Columbia University in New York.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research is concerned with the development and characterization of integrated circuits for the readout of silicon-strip detectors employed in high energy physics and astrophysics experiments. I’m currently involved in the development of the [General AntiParticle Spectrometer](https://gaps1.astro.ucla.edu/gaps/index.html) (GAPS) experiment in search of dark matter.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Download my curriculum [here](https://lucaghislo.github.io/assets/pdf/cv_luca_ghislotti.pdf).
