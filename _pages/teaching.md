@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Department of Engineering and Applied Sciencies, University of Bergamo.
-nav: true
+nav: false
 nav_order: 3
 ---
 
