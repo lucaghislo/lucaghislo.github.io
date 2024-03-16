@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lucaghislotti.com/sitemap.xml
+Sitemap: https://lucaghislotti.com/about//sitemap.xml
