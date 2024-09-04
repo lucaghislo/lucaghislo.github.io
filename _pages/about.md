@@ -18,10 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m a Computer Engineer and a Ph.D. student in microelectronics for high energy physics at the [Microelectronics Laboratory](https://microlab-unibg.it/#/home) of the [University of Bergamo](https://en.unibg.it/). I also work as a technologist at the Italian National Institute of Nuclear Physics and as a Research Associate II at the Astrophysics Laboratory of the Columbia University in New York.
+I am a Computer Engineer and a Ph.D. student in microelectronics for high-energy physics at the Department of Engineering and Applied Sciences, [Microelectronics Laboratory](https://microlab-unibg.it/#/home), [University of Bergamo](https://en.unibg.it/). I work as a technologist at the Pavia branch of the Italian National Institute of Nuclear Physics (INFN) within the CSN2 particle physics division, and I previously served as a research associate at the Astrophysics Laboratory of Columbia University.
 
-My research is focused on the design and characterization of analog integrated circuits for the readout of silicon-strip detectors employed in high energy physics and astrophysics experiments.
+My research focuses on the design and characterization of analog integrated circuits for the readout of silicon-strip detectors employed in high energy physics and astrophysics experiments.
 
-I’m currently involved in the development of the [General AntiParticle Spectrometer](https://gaps1.astro.ucla.edu/gaps/index.html) (GAPS) Antarctic balloon experiment in search of dark matter.
+I am currently contributing to the development of the [General AntiParticle Spectrometer](https://gaps1.astro.ucla.edu/gaps/index.html) (GAPS) Antarctic balloon experiment as part of the GAPS collaboration, aimed at the search for dark matter.
 
 Download my curriculum [here](https://lucaghislo.github.io/assets/pdf/cv_luca_ghislotti.pdf).
