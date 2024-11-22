@@ -22,6 +22,6 @@ I am a Computer Engineer and a Ph.D. student in microelectronics for high-energy
 
 My research focuses on the design and characterization of analog integrated circuits for the readout of silicon-strip detectors employed in high energy physics and astrophysics experiments.
 
-I am currently contributing to the development of the [General AntiParticle Spectrometer](https://gaps1.astro.ucla.edu/gaps/index.html) (GAPS) Antarctic balloon experiment as part of the GAPS collaboration, aimed at the search for dark matter.
+I am currently contributing to the development of the [General AntiParticle Spectrometer](https://gaps1.astro.ucla.edu/gaps/index.html) (GAPS) Antarctic balloon experiment as part of the GAPS collaboration. GAPS is a NASA, JAXA, INFN and ASI experiment that is designed to precisely measure the flux of low-energy cosmic-ray antideuterons, antiprotons, and antihelium as an indirect signature of dark matter.
 
 Download my curriculum [here](https://lucaghislo.github.io/assets/pdf/cv_luca_ghislotti.pdf).
