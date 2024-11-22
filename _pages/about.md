@@ -8,10 +8,10 @@ profile:
   align: right
   image: luca_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Microelectronics Laboratory</p>
-    <p>University of Bergamo</p>
-    <p>Bergamo, Italy</p>
+  # more_info: >
+  #   <p>Microelectronics Laboratory</p>
+  #   <p>University of Bergamo</p>
+  #   <p>Bergamo, Italy</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
