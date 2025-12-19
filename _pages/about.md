@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Engineer, Ph.D. Student, Audiophile.
+subtitle: Computer Engineer, Researcher, Audiophile. # Ph.D. Student
 
 profile:
   align: right
