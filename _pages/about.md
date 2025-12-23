@@ -25,7 +25,7 @@ My research is centered on the design and characterization of analog integrated 
 Currently, I contribute to the [General AntiParticle Spectrometer](https://gaps1.astro.ucla.edu/gaps/index.html) (GAPS), a NASA–JAXA–INFN–ASI balloon experiment in Antarctica. GAPS is designed to perform the first sensitive search for low-energy cosmic-ray antideuterons, as well as precise measurements of antiprotons and antihelium, providing a unique indirect probe of dark matter.   -->
 
 I am a Computer Engineer and Research Fellow at the Pavia branch of the [Italian National Institute of Nuclear Physics (INFN – Istituto Nazionale di Fisica Nucleare)](https://home.infn.it/en/), working within the CSN2 particle physics division.  
-I am currently a Ph.D. candidate in *Engineering and Applied Sciences* at the Department of Engineering and Applied Sciences, [University of Bergamo](https://en.unibg.it/), where I work at the [Microelectronics Laboratory](https://microlab-unibg.it/#/home).
+I am currently a Ph.D. candidate in *Engineering and Applied Sciences* at the Department of Engineering and Applied Sciences, [University of Bergamo](https://en.unibg.it/), where I work at the [Microelectronics Laboratory](https://microlab.unibg.it/#/home).
 
 My research focuses on the design and characterization of low-noise, low-power analog integrated circuits for the readout of silicon detectors used in high-energy physics and astrophysics experiments. These systems play a key role in enabling precise measurements of particle interactions and cosmic radiation in challenging experimental environments.
 
