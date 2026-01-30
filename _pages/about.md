@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Engineer, Researcher, Audiophile. # Ph.D. Student
+subtitle: Ph.D. in Electronics, Computer Engineer, Researcher.
 
 profile:
   align: right
@@ -18,14 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<!-- I am a Computer Engineer and Ph.D. student in microelectronics for high-energy physics at the [Microelectronics Laboratory](https://microlab-unibg.it/#/home), Department of Engineering and Applied Sciences, [University of Bergamo](https://en.unibg.it/). I also work as a technologist at the Pavia branch of the Italian National Institute of Nuclear Physics ([INFN](https://home.infn.it/en/)), within the CSN2 particle physics division. Previously, I was an associate research fellow at the Columbia Astrophysics Laboratory (CAL) of Columbia University.  
-
-My research is centered on the design and characterization of analog integrated circuits for the readout of silicon-strip detectors used in high-energy physics and astrophysics experiments. These systems are critical for advancing our understanding of fundamental particles and cosmic phenomena.  
-
-Currently, I contribute to the [General AntiParticle Spectrometer](https://gaps1.astro.ucla.edu/gaps/index.html) (GAPS), a NASA–JAXA–INFN–ASI balloon experiment in Antarctica. GAPS is designed to perform the first sensitive search for low-energy cosmic-ray antideuterons, as well as precise measurements of antiprotons and antihelium, providing a unique indirect probe of dark matter.   -->
-
 I am a Computer Engineer and Research Fellow at the Pavia branch of the [Italian National Institute of Nuclear Physics (INFN – Istituto Nazionale di Fisica Nucleare)](https://home.infn.it/en/), working within the CSN2 particle physics division.  
-I am currently a Ph.D. candidate in *Engineering and Applied Sciences* at the Department of Engineering and Applied Sciences, [University of Bergamo](https://en.unibg.it/), where I work at the [Microelectronics Laboratory](https://microlab.unibg.it/#/home).
+I recently **obtained my Ph.D. in Engineering and Applied Sciences** from the [University of Bergamo](https://en.unibg.it/), where I continue to conduct my research at the [Microelectronics Laboratory](https://microlab.unibg.it/#/home).
 
 My research focuses on the design and characterization of low-noise, low-power analog integrated circuits for the readout of silicon detectors used in high-energy physics and astrophysics experiments. These systems play a key role in enabling precise measurements of particle interactions and cosmic radiation in challenging experimental environments.
 
