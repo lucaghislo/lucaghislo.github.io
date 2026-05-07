@@ -428,7 +428,6 @@
   doi = {10.13122/ghislotti-luca_phd2026-01-28},
   urldate = {2026-02-19},
   abstract = {The General Antiparticle Spectrometer (GAPS) is a balloon-borne experiment designed to perform three long-duration flights from Antarctica to search for low-energy cosmic antinuclei, in particular antideuterons, as an indirect probe of dark matter. Its detection method is based on the formation and decay of exotic atoms, identified through the emission of characteristic X-rays and subsequent annihilation into secondary particles. At the core of the instrument is the silicon tracker, composed of lithium-drifted silicon detectors operated at −40 °C and read out by a custom application-specific integrated circuit (ASIC), SLIDER32, implemented in a 180 nm CMOS technology. This thesis reports on the integration, calibration, and validation of the SLIDER32-based tracker readout electronics. Laboratory characterization of a single tracker module with an Americium-241 source and cosmic muons was complemented by calibration and testing of the full tracker in its flight configuration, leading to the first X-ray spectrum acquisition from a Cadmium-109 source. These activities formed part of the integration and testing phase for the first flight, culminating in full instrument assembly and validation during the 2024 Antarctic campaign. 
-
   Building on this experience, the work presents the design and characterization of a new prototype integrated circuit conceived as an upgrade to SLIDER32: the ANTARES4 chip, fabricated in 65 nm CMOS technology. The device integrates eight analog channels up to the shaping stage and implements dynamic signal compression techniques based on dynamic-threshold MOS transistors, together with an improved detector leakage current compensation circuit at the preamplifier input. Laboratory characterization provides an initial validation of these design choices, laying the foundations for the next-generation tracker readout system to be adopted in the second flight of the experiment.},
   langid = {english},
   keywords = {GAPS experiment, Si(Li) detectors, readout ASIC, SLIDER32, ANTARES4, 65 nm CMOS, dark matter, balloon-borne experiments},
@@ -449,4 +448,23 @@
   abstract = {This work presents the design and experimental characterization of a low-noise analog readout channel that exploits the nonlinear behavior of a dynamic-threshold MOS (DTMOS) capacitor in the feedback network of a charge-sensitive amplifier (CSA) to achieve dynamic signal compression. The circuit is implemented in a commercial 65 nm CMOS technology and is intended for the readout of lithium-drifted silicon (Si(Li)) detectors of the General Antiparticle Spectrometer (GAPS) experiment for dark matter searches. The charge amplifier incorporates an improved Krummenacher restoration network featuring an additional bulk-control terminal, enabling operation with detector leakage currents up to 200 nA. The contribution outlines the design criteria and architecture of the readout channel, with particular focus on the DTMOS feedback capacitor and the enhanced charge restoration network. A summary of the channel characterization results is also provided.},
   keywords = {charge-sensitive amplifier, DTMOS, dynamic signal compression, Si(Li) detectors, GAPS experiment, 65 nm CMOS, Krummenacher feedback},
   preview = {nss2025_poster.png},
+}
+
+@inproceedings{ghislotti_antares4_sie2026,
+  title = {A 65 nm CMOS readout ASIC with dynamic signal compression for balloon-borne spectrometry applications},
+  booktitle = {Proceedings of SIE 2025},
+  author = {Luca Ghislotti and Paolo Lazzaroni and Massimo Manghisoni and Lodovico Ratti and Valerio Re and Elisa Riceputi},
+  editor = {Paolo Pavan and Stefania Campopiano},
+  year = {2026},
+  pages = {157--164},
+  publisher = {Springer Nature Switzerland},
+  address = {Cham},
+  doi = {10.1007/978-3-032-17305-8_16},
+  isbn = {978-3-032-17305-8},
+  abstract = {Balloon-borne and spaceborne spectrometers require front-end electronics capable of achieving a wide dynamic range and high energy resolution while operating under strict thermal and power constraints. ANTARES4 is a prototype readout application-specific integrated circuit (ASIC) fabricated in a commercial 65 nm CMOS technology for the readout of silicon detectors in high-energy astrophysics applications. The chip integrates eight fully analog channels, each composed of a charge-sensitive amplifier followed by a semi-Gaussian CR--RC shaper with selectable peaking times ranging from 0.2 μs to 1.6 μs for signal-to-noise optimization. 
+  The feedback capacitor of the charge-sensitive amplifier is implemented using MOS devices with voltage-dependent capacitance, enabling dynamic signal compression and bilinear input--output behavior with differentiated gain for low-energy X-rays and high-energy charged particles. Four feedback configurations, including both n-type and p-type MOS capacitors with matched gate areas, are implemented for direct performance comparison. The circuit dissipates approximately 3.5 mW per channel, remaining within the target power budget, and achieves simulated energy resolutions of 3.5 keV FWHM with a detector capacitance of 40 pF. The input dynamic range extends over four decades, from 10 keV to 100 MeV. 
+  The chip has been submitted for fabrication, and a dedicated test board has been developed for characterization at room temperature and down to −40 °C.},
+  langid = {english},
+  keywords = {readout ASIC, dynamic signal compression, CMOS, charge-sensitive amplifier, Si(Li) detectors, balloon-borne experiments, GAPS experiment},
+  preview = {SIE2025.jpg},
 }
