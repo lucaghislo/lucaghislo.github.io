@@ -2,13 +2,14 @@
 layout: page
 title: Garmin LiveTrack
 permalink: /livetrack/
+description: Device: Garmin inReach® Mini 2
 nav: true
 nav_order: 3
 ---
 
 <div style="text-align: center; margin-bottom: 1.5rem;">
   <p>
-    This page shows my live GPS position when I am out on a mountain trip, powered by my <a href="https://www.garmin.com/en-US/p/765374/" target="_blank">Garmin inReach Mini 2</a> satellite communicator. The tracker is active only during ongoing outings. If no session is running, the map will appear empty.
+    This page shows my live GPS position when I am out on a mountain trip. The tracker is active only during ongoing outings. If no session is running, the map will appear empty.
   </p>
 </div>
 
