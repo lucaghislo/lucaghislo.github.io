@@ -27,13 +27,4 @@ I am currently involved in the [General AntiParticle Spectrometer](https://gaps1
 
 🏔️ Outside the lab, I enjoy hiking and mountaineering in the Alps — you can find some of my adventures on [Komoot](https://www.komoot.com/it-it/user/4059073076208).
 
-<div style="margin-top: 1rem;">
-  <iframe src="https://livetrack.garmin.com/lucaghislotti/embed"
-          title="Luca | LiveTrack"
-          width="800" height="560"
-          frameborder="0"
-          style="border: none; max-width: 100%; display: block;">
-  </iframe>
-</div>
-
 📄 Download my [curriculum vitae](https://lucaghislo.github.io/assets/pdf/CV_scientific_luca_ghislotti.pdf).
