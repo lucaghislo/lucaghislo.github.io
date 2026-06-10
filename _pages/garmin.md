@@ -2,7 +2,7 @@
 layout: page
 title: Garmin LiveTrack
 permalink: /livetrack/
-description: Device: Garmin inReach Mini 2
+description: "Device: Garmin inReach Mini 2"
 nav: true
 nav_order: 3
 ---
