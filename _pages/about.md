@@ -25,6 +25,6 @@ My research focuses on the design and characterization of low-noise, low-power a
 
 I am currently involved in the [General AntiParticle Spectrometer](https://gaps1.astro.ucla.edu/gaps/index.html) (GAPS), a NASA–JAXA–INFN–ASI Antarctic balloon experiment. GAPS is designed to perform the first sensitive search for low-energy cosmic-ray antideuterons, together with precision measurements of antiprotons and antihelium, providing a unique indirect probe of dark matter.
 
-🏔️ Outside the lab, I enjoy hiking and mountaineering in the Alps — you can find some of my adventures on [Komoot](https://www.komoot.com/it-it/user/4059073076208).
+🏔️ Outside the lab, I enjoy hiking and mountaineering in the Alps. You can find some of my adventures on [Komoot](https://www.komoot.com/it-it/user/4059073076208). You can follow me live via [Garmin LiveTrack](/livetrack/).
 
 📄 Download my [curriculum vitae](https://lucaghislo.github.io/assets/pdf/CV_scientific_luca_ghislotti.pdf).
