@@ -159,6 +159,12 @@
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
       {% endif %}
+      {% if entry.doi %}
+        <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      {% endif %}
+      {% if site.enable_publication_badges.google_scholar and entry.google_scholar_id == nil %}
+        <a href="https://scholar.google.com/scholar?q={{ entry.title | strip_html | url_encode }}" class="btn btn-sm z-depth-0" role="button" title="Cerca questa pubblicazione su Google Scholar">Scholar</a>
+      {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
@@ -214,20 +220,30 @@
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}
-      {% assign entry_has_altmetric_badge = entry.altmetric or entry.doi or  entry.eprint or entry.pmid or entry.isbn %}
-      {% assign entry_has_dimensions_badge = entry.dimensions or entry.doi or entry.pmid %}
+      {% assign entry_has_altmetric_badge = false %}
+      {% if entry.doi or entry.arxiv or entry.pmid or entry.isbn %}
+        {% assign entry_has_altmetric_badge = true %}
+      {% elsif entry.altmetric and entry.altmetric != 'true' and entry.altmetric != 'false' %}
+        {% assign entry_has_altmetric_badge = true %}
+      {% endif %}
+      {% assign entry_has_dimensions_badge = false %}
+      {% if entry.doi or entry.pmid %}
+        {% assign entry_has_dimensions_badge = true %}
+      {% elsif entry.dimensions and entry.dimensions != 'true' and entry.dimensions != 'false' %}
+        {% assign entry_has_dimensions_badge = true %}
+      {% endif %}
       {% assign entry_has_google_scholar_badge = entry.google_scholar_id %}
       {% if entry_has_altmetric_badge or entry_has_dimensions_badge or entry_has_google_scholar_badge %}
         <div class="badges">
           {% if site.enable_publication_badges.altmetric and entry_has_altmetric_badge %}
             <span
               class="altmetric-embed"
-              data-hide-no-mentions="true"
-              data-hide-less-than="15"
+              data-hide-no-mentions="false"
+              data-hide-less-than="0"
               data-badge-type="2"
               data-badge-popover="right"
-              {% if entry.eprint %}
-                data-arxiv-id="{{ entry.eprint }}"
+              {% if entry.arxiv %}
+                data-arxiv-id="{{ entry.arxiv }}"
               {% elsif entry.doi %}
                 data-doi="{{ entry.doi }}"
               {% elsif entry.altmetric %}
@@ -244,12 +260,12 @@
               class="__dimensions_badge_embed__"
               {% if entry.doi %}
                 data-doi="{{ entry.doi }}"
-              {% else %}
+              {% elsif entry.pmid %}
                 data-pmid="{{ entry.pmid }}"
               {% else %}
                 data-id="{{ entry.dimensions }}"
               {% endif %}
-              data-hide-zero-citations="true"
+              data-hide-zero-citations="false"
               data-style="small_rectangle"
               data-legend="hover-right"
               style="margin-bottom: 3px;"
